@@ -1,0 +1,18 @@
+
+.App {
+  text-align: center;
+}
+
+p{ 
+  color: primary;
+}
+
+ul{
+  list-style-type: none;
+}
+input[type="text"] {
+  background-color: azure;
+}
+.h3color{
+  color:navy
+}
